@@ -1,5 +1,6 @@
-# SQ![chrome_O5AjYkQymu](https://user-images.githubusercontent.com/81232303/131902688-32804ca5-8f75-4485-ae8d-5feeae6a8509.png)
-UEERS
+# SQUEERS
+![chrome_O5AjYkQymu](https://user-images.githubusercontent.com/81232303/131902688-32804ca5-8f75-4485-ae8d-5feeae6a8509.png)
+
 The game to take over the world, by avoiding guards, and doing household chores. ... 
 
 This is a game featured on the tubeface (and featuring facetubes) (bookface... Fakebook.) 
